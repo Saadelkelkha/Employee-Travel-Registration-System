@@ -28,7 +28,7 @@ Handles the login process for employees.
 
 #### `menu.php`:
 Displays a navigation menu if the user is authenticated.
-<img src="img\menu.png" align="center">
+<img src="img\menuu.png" align="center">
 
 #### `sinscrire.php`:
 Contains the form for registering a new travel booking.
