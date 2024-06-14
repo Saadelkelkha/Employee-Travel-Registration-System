@@ -24,18 +24,23 @@ Establishes a connection to the MySQL database using PDO.
 
 #### `connEmp.php`:
 Handles the login process for employees.
+<img src="img\connEmp.png" align="center">
 
 #### `menu.php`:
 Displays a navigation menu if the user is authenticated.
+<img src="img\menu.png" align="center">
 
 #### `sinscrire.php`:
 Contains the form for registering a new travel booking.
+<img src="img\sincrire.png" align="center">
 
 #### `listeIns.php`:
 Allows employees to filter and view a list of their travel registrations.
+<img src="img\listIns.png" align="center">
 
 #### `autrepage.php`:
 Displays detailed information about a specific travel registration.
+<img src="img\autrepage.png" align="center">
 
 #### `deconnecter.php`:
 Handles user logout by ending the session.
