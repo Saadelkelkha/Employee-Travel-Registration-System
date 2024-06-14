@@ -4,6 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        form{
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items:center;
+            justify-content: center;
+            background-color:rgb(47,120,158);
+            color:white;
+        }
+        input{
+            width: 50%;
+        }
+        button{
+            width: 20%;
+        }
+    </style>
 </head>
 <body>
     <form method="POST" action="">
